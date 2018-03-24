@@ -1,0 +1,26 @@
+{
+  "name": "random-github-user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel build index.html",
+    "dev": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bulma": "^0.6.2",
+    "hyperapp": "^1.2.5",
+    "ramda": "^0.25.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-hyperapp": "^2.3.0",
+    "eslint": "^4.19.1",
+    "parcel-bundler": "^1.6.2",
+    "prettier": "^1.11.1"
+  }
+}

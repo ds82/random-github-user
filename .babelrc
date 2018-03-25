@@ -1,3 +1,4 @@
 {
-  "presets": ["env", "hyperapp"]
+  "presets": ["env", "hyperapp"],
+  "plugins": ["ramda"]
 }
